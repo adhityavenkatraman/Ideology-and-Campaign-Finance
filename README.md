@@ -1,0 +1,8 @@
+# Ideology-and-Campaign-Finance
+In this project, I examine data on the flow of donations in presidential elections from 1980-2016. I ask three key questions:  
+
+1. Across presidential elections from 1980-2016, who are 25 the most prolific donors and what are their political views? 
+2. Do "small" donors contribute less often than "large" donors? 
+3. What are Corporate Leaders’ donation patterns and how do they vary from the general population?
+
+While my results are limited to the context of the data, I make a number of interesting findings. First, the most prolific donors seem to have more extreme viewpoints and ideologies. Second, there seems to be a negative relationship between the size of contributions and the number of contributions made. This relationship seems to decrease logarithmically. Finally, I find that elites donate more than non-elites on average. I also find that the elites studied may make donations based on the companies they are a part of, and that the distribution of political ideology may be less extreme among elites than it is in the general population. I begin this report by discussing the data, defining key variables and terms, and providing the source of the data. Then, I offer a reflection on the ethical use of this data and my thought process and approach to dealing with those challenges. Then, I conduct my analysis, starting with importing the data, then tidying and cleaning the data, and finally exploring each of the questions above in depth. I conclude by summarizing my findings, acknowledging major limitations, and offering recommendations for future work.
